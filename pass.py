@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import re
 
@@ -109,4 +109,4 @@ if password:
 
     else:
         st.success("🎉 Excellent! Your sample password meets all five criteria.")
-```
+
